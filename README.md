@@ -1,4 +1,4 @@
-# GesTune- Hand Gesture Volume Tuning
+# GesTune- Tune Volume with Hand Gestures
 
 Control your system's volume using hand gestures via a webcam. This project uses OpenCV for video processing, MediaPipe for hand tracking (through a custom module), and Pycaw for controlling system volume on Windows.
 
